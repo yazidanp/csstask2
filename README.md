@@ -7,7 +7,7 @@
 #### 3.Create a public repo
 
 #### 4.Host the Website that you have created using HTML and CSS in github pages.
-.Eg:
+
 #### 5. Paste the link of your website next to your name.
 
 #### 6. Design should be similar to the given figure.
