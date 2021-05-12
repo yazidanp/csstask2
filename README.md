@@ -58,3 +58,11 @@
 |4|Adil|-|
 |5|Greeshma|-|
 |6|Adithya|-|
+
+|Net Weavers|Name|Repo Address|  
+|-----------|----|------------|
+|1|Nandu krishna|-|
+|2|Arjun|-|
+|3|Lisana|-|
+|4|Gayathri|-|
+|5|Nayantara|-|
