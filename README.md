@@ -56,7 +56,7 @@
 |Query Crew|Name|Website link|  
 |----------|----|------------|
 |1|Hadiq|-|
-|2|Kiran|-|
+|2|Kiran|https://kirankrish792.github.io/02_css/|
 |3|Pravitha|https://pravitha007.github.io/TASK_02_CSS/|
 |4|Adil|-|
 |5|Greeshma|-|
