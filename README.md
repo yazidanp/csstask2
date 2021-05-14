@@ -64,7 +64,7 @@
 
 |Net Weavers|Name|Website link|  
 |-----------|----|------------|
-|1|Nandu krishna|-|
+|1|Nandu krishna|https://nandukrishnat.github.io/Task02CSS/|
 |2|Arjun|-|
 |3|Lisana|-|
 |4|Gayathri|-|
