@@ -47,7 +47,7 @@
 |Webzone|Name|Website link|  
 |-------|----|------------|
 |1|Anupriya|-|
-|2|Aleena Reji|-|
+|2|Aleena Reji| https://aleenareji5.github.io/css-task2/|
 |3|Avanthika|-|
 |4|Atif|-|
 |5|Yadunath|-|
