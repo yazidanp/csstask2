@@ -48,7 +48,7 @@
 |-------|----|------------|
 |1|Anupriya|-|
 |2|Aleena Reji| https://aleenareji5.github.io/css-task2/|
-|3|Avanthika|-|
+|3|Avanthika|https://avanthika2811.github.io/CSS-TASK-02/|
 |4|Atif|-|
 |5|Yadunath|-|
 |6|Adnan|-|
