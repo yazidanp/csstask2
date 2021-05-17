@@ -60,7 +60,7 @@
 |3|Pravitha|https://pravitha007.github.io/TASK_02_CSS/|
 |4|Adil|-|
 |5|Greeshma|-|
-|6|Adithya|-|
+|6|Adithya|https://adithyanandakumar.github.io/taskwebsite02/|
 
 |Net Weavers|Name|Website link|  
 |-----------|----|------------|
