@@ -30,7 +30,7 @@
 |Server Monks|Name|Website link|  
 |------------|----|------------|
 |1|Adnan|https://github.com/adnane777/task2css|
-|2|Anuroopa|-|
+|2|Anuroopa|https://github.com/Anuroopaaa/css-task-02|
 |3|Akmal|-|
 |4|Hiba|-|
 |5|Dana|-|
@@ -38,7 +38,7 @@
 
 |Data Pirates|Name|Website link|  
 |------------|----|------------|
-|1|Najiya|-|
+|1|Najiya|https://fathimanajiya.github.io/TASK02CSS/|
 |2|Hafis|-|
 |3|Prathul|-|
 |4|Swathy|-|
@@ -46,10 +46,10 @@
 
 |Webzone|Name|Website link|  
 |-------|----|------------|
-|1|Anupriya|-|
+|1|Anupriya|https://anupriyach.github.io/Css2/|
 |2|Aleena Reji| https://aleenareji5.github.io/css-task2/|
 |3|Avanthika|https://avanthika2811.github.io/Task02-CSS/|
-|4|Atif|-|
+|4|Atif|https://atifpv.github.io/CSSTASK2/|
 |5|Yadunath|-|
 |6|Adnan|-|
 
