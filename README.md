@@ -30,7 +30,7 @@
 |Server Monks|Name|Website link|  
 |------------|----|------------|
 |1|Adnan|-|
-|2|Anuroopa|-|
+|2|Anuroopa|https://github.com/Anuroopaaa/css-task-02|
 |3|Akmal|-|
 |4|Hiba|-|
 |5|Dana|-|
