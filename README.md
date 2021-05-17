@@ -29,7 +29,7 @@
 
 |Server Monks|Name|Website link|  
 |------------|----|------------|
-|1|Adnan|-|
+|1|Adnan|https://github.com/adnane777/task2css|
 |2|Anuroopa|https://github.com/Anuroopaaa/css-task-02|
 |3|Akmal|-|
 |4|Hiba|-|
