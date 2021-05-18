@@ -51,7 +51,7 @@
 |3|Avanthika|https://avanthika2811.github.io/Task02-CSS/|
 |4|Atif|https://atifpv.github.io/CSSTASK2/|
 |5|Yadunath|-|
-|6|Adnan|-|
+|6|Adnan|https://adnanzabdi.github.io/TASK-02-CSS-WEBSITE/|
 
 |Query Crew|Name|Website link|  
 |----------|----|------------|
